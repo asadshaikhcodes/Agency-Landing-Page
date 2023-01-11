@@ -1,6 +1,6 @@
 .header-container {
   height: calc(100vh - 100px);
-  background: #ffffff url("/images/header-bg.svg") no-repeat right top;
+  background: #ffffff url("../images/header-bg.svg") no-repeat right top;
   background-size: contain;
   position: relative;
 }
